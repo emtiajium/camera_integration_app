@@ -12,6 +12,10 @@
 * plug in your device via USB
 * connect to the development server
 * `npm run generate-android-bundle`
+
+# App Execution #
+
+* start server 
 * run/install app (/android folder) using Android Studio or execute `react-native run-android` from root folder
 
 # Useful Things #
